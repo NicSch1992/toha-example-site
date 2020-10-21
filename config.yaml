@@ -63,8 +63,8 @@ params:
 
   # some information about you
   author:
-    name: "Jane Doe"
-    nickname: "Jane"
+    name: "Nic ( . ) ( . )"
+    nickname: "Nic"
     image: "images/avatar.png"
     # greeting message before your name. it will default to "Hi! I am" if not provided
     greeting: "Hi, I am"
